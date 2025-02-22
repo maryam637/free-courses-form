@@ -1,0 +1,49 @@
+body {
+    color: rgb(68, 68, 216);
+}
+h2 {
+    color: black;
+}
+a {
+    padding: 5px;
+    text-decoration-line: none;
+}
+a:hover{
+color: red;
+font-family: 'Lucida Sans', sans-serif;
+}
+select {
+    width: 250px;
+    height: 40px;
+    border: 1px solid #99cc33;
+border-radius: 6px;
+}
+input {
+    width: 250px;
+    height: 40px;
+    border: 1px solid #99cc33;
+    border-radius: 6px;
+}
+span {
+    color: black;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 20px;
+}
+ol{
+    color: black;
+}
+button{
+color: white;
+background-color: rgb(52, 52, 114);
+width: 400px;
+height: 40px;
+}
+
+
+
+
+
+
+
+
